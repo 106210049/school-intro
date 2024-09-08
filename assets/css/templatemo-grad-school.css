@@ -621,10 +621,10 @@ section.why-us {
 /* Coming Soon */
 
 section.coming-soon {
-    background-image: url(../images/coming-soon-bg.jpg);
+    background-image: url(../images/courses-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #172238;
+    background-color: #ff000000;
     padding: 120px 0px;
 }
 
